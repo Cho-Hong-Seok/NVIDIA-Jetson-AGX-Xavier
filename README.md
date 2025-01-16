@@ -23,3 +23,18 @@
 #### 🔮 향후 연구
 - YOLOv5 이외의 최신 모델 도입 및 성능 비교
 - 화재 예측, 건물 균열 탐지 등 다른 산업 응용 분야로의 확장 연구
+#### ✔︎ 결과
+- Model mAP
+<img src="https://github.com/user-attachments/assets/1a91793a-33bb-475a-bf36-d143f976ecf1" width="500" height="200">
+
+- 앞모습
+<img src="https://github.com/user-attachments/assets/1bf07d4c-a17f-4d54-9765-7cea88766f54" width="600" height="300">
+
+- 뒷모습
+<img src="https://github.com/user-attachments/assets/ec9b2502-8a2e-4e17-82ce-e0b61b07f31c" width="600" height="300">
+
+- 옆모습, 앉은 모습
+<img src="https://github.com/user-attachments/assets/96dac754-585a-46f5-845b-1c061c497b2d" width="600" height="300">
+
+
+
